@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+
+.aali_tm_settings .colors li a.green{background-color: #66B95C;}
+
+
+
+.aali_tm_all_wrap[data-color="green"] .cursor-inner.cursor-hover{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .cursor-outer{border-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .cursor-inner{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_header .menu ul li.current a{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_header .menu ul li a:hover{color: #66B95C;}
+body.dark .aali_tm_all_wrap[data-color="green"] .aali_tm_header.animate .menu ul li.current a{color: #66B95C;}
+body.dark .aali_tm_all_wrap[data-color="green"] .aali_tm_header.animate .menu ul li a:hover{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .content .name{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button a{background-color: #66B95C;border-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button a:hover{background-color: transparent;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .avatar .three .in{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .avatar .one .in{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .avatar .two .in{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .five .in{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_hero .socials ul a:hover{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_about .center .small{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_about .center h3 span{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_about .square{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_about .right .square{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_skills{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay{background-color: rgba(102,185,92,.72);}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_main_title span{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_service .square_right{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_service .service_list .price span{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button.border a{background-color: transparent;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button.border a:hover{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button.border a:hover svg{color: #fff;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_button.border .svg{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_resume .media .square{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_resume .main_title span:before{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_resume .icon{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_testimonials{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_news .news_list ul li .details .category a{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_news .news_list ul li .details .title a:hover{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_learn_more a{border-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_learn_more a:hover{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_counter{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_contact .left ul li h3{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_contact .left ul li a{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_copyright .square{background-color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_copyright .social ul li a{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_copyright .social ul li a:hover{background-color: #66B95C;color: #fff;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_modalbox .service_popup_informations .main_title span span{color: #66B95C;}
+.aali_tm_all_wrap[data-color="green"] .aali_tm_service .service_list .icon .svg{fill: #66B95C;}
+

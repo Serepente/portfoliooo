@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Xampp/htdocs/new/c++"
+		},
+		{
+			"path": "../../Xampp/htdocs/Ub/shop"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "shop"
+	}
+}
